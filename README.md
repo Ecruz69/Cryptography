@@ -1,4 +1,4 @@
-# Cryptography
+# Cryptography ( Caesar & Vigenere )
  Caesar encryption & Decryption and Vigenere Encryption
 
 Note : 
