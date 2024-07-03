@@ -1,2 +1,6 @@
 # Cryptography
- Caesar & Veginere Cipher
+ Caesar encryption & Decryption
+ Vigenere Encryption
+
+Note : 
+For education purpose only.
